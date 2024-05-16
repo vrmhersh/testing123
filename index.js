@@ -1,5 +1,5 @@
 function sum(a, b) {
-    console.log('branchy wanchy', a + b)
+    console.log('poo poo', a + b)
 }
 
 sum();
